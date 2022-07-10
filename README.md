@@ -1,6 +1,6 @@
 # Hello, CloudFront!
 
-This is the code project for the [Hello, CloudWatch!](https://davidpallmann.hashnode.dev/hello-cloudwatch) blog post. 
+This is the code project for the [Hello, CloudFront!](https://davidpallmann.hashnode.dev/hello-cloudfront) blog post. 
 
 This episode: Amazon CloudFront and content delivery networks. In this Hello, Cloud blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
